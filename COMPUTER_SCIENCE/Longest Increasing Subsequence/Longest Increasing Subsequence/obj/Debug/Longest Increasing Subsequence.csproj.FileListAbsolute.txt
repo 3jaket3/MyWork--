@@ -1,0 +1,14 @@
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.exe.config
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.exe
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.pdb
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.exe
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.pdb
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.exe.config
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.exe
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.pdb
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.csprojAssemblyReference.cache
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.exe
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Longest Increasing Subsequence\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.pdb

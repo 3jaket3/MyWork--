@@ -1,0 +1,40 @@
+           REALLOCATE COM,32720
+           SIMULATE
+           INTEGER    &LIMIT
+           LET        &LIMIT=18000
+*                             
+           GENERATE   RVEXPO(1,5)
+           QUEUE      LINE
+           GATE SNF   1
+           ENTER      1,1
+           ADVANCE    1,0
+           TRANSFER   .6,SERVICEA,SERVICEB             
+*  
+ SERVICEA  ENTER      2,1
+           GATE SNF   2
+           ENTER      2,1 
+           ADVANCE    RVEXPO(1,9)
+           LEAVE      2,2
+           ADVANCE    1,0
+           LEAVE      1,1
+           DEPART     LINE
+           TABULATE   RES
+           TERMINATE       
+* 
+ SERVICEB  ENTER      2,1 
+           ADVANCE    RVEXPO(1,9)
+           LEAVE      2,1
+           ADVANCE    1,0
+           LEAVE      1,1
+           DEPART     LINE
+	   TABULATE   RES
+           TERMINATE          
+*
+  RES TABLE           M1,0,3,15
+*
+           STORAGE    S1,5/S2,4	
+*
+           GENERATE   &LIMIT
+           TERMINATE  1
+           START      1
+           END  

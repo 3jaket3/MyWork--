@@ -1,0 +1,14 @@
+           SIMULATE
+           INTEGER    &LIMIT
+           LET        &LIMIT=5000
+           GENERATE   RVEXPO(1,10)
+           QUEUE      LINE
+           SEIZE      CHECKOUT
+           ADVANCE    RVEXPO(1,3)
+           RELEASE    CHECKOUT
+           DEPART     LINE
+           TABULATE   RES
+           TERMINATE  1
+RES TABLE             M1,0,5,14
+           START      &LIMIT
+           END

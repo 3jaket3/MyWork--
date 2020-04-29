@@ -1,0 +1,14 @@
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\obj\Debug\Investments.csprojResolveAssemblyReference.cache
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\obj\Debug\Investments.csproj.CoreCompileInputs.cache
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\bin\Debug\Investments.exe.config
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\bin\Debug\Investments.exe
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\bin\Debug\Investments.pdb
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\obj\Debug\Investments.exe
+C:\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\obj\Debug\Investments.pdb
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\bin\Debug\Investments.exe.config
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\bin\Debug\Investments.exe
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\bin\Debug\Investments.pdb
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\obj\Debug\Investments.csprojAssemblyReference.cache
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\obj\Debug\Investments.csproj.CoreCompileInputs.cache
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\obj\Debug\Investments.exe
+C:\Users\gordt\OneDrive\Documents\JAKE\Users\JakeT\source\repos\COIS4050\Assingment2\Investments\Investments\obj\Debug\Investments.pdb

@@ -1,0 +1,6 @@
+total 16
+-rw-rw-r--. 1 onthego onthego   0 Jan 16 15:26 localhost.localdomain_onthego_.txt
+-rwxrw-r--. 1 onthego onthego 226 Jan 16 15:24 lab0_script2.sh
+-rwxrw-r--. 1 onthego onthego 228 Jan 16 15:18 lab0_script2.sh~
+-rwxrw-r--. 1 onthego onthego  32 Jan 16 15:11 lab0_script.sh
+-rwxrw-r--. 1 onthego onthego  35 Jan 16 15:09 lab0_script.sh~

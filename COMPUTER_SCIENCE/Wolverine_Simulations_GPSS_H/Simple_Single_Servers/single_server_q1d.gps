@@ -1,0 +1,19 @@
+           SIMULATE
+           INTEGER    &LIMIT
+           LET        &LIMIT=5000
+           GENERATE   RVEXPO(1,5)
+           QUEUE      LINE
+           ENTER      1,1
+           ADVANCE    RVEXPO(1,4)
+           DEPART     LINE
+           LEAVE      1,1
+           TABULATE   RES
+           TERMINATE
+*
+           STORAGE    S1,2
+*
+  RES TABLE           M1,0,3,14
+           GENERATE   &LIMIT
+           TERMINATE  1
+           START      1
+           END

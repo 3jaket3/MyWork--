@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=number
+comment1.target=Item(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Item\r\n
+comment2.params=
+comment2.target=void\ printValue()
+numComments=3

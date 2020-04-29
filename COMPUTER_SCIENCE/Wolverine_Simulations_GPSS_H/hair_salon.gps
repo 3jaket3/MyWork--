@@ -1,0 +1,31 @@
+           SIMULATE
+           INTEGER    &LIMIT
+           LET        &LIMIT=5000	set simulation maximum
+*
+           GENERATE   RVEXPO(1,8)	generate customer acording to distribution
+           TRANSFER   .25,FEMALE,MALE	split at specific probability
+*
+  FEMALE   QUEUE      FEMLINE		queue female customer and process
+           ENTER      1,1
+           ADVANCE    12,3
+           DEPART     FEMLINE
+           LEAVE      1,1
+           TABULATE   RES
+           TERMINATE
+*
+  MALE     QUEUE      MALELINE		queue male customer and process
+           ENTER      2,1
+           ADVANCE    7,2
+           DEPART     MALELINE
+           LEAVE      2,1
+           TABULATE   RES
+           TERMINATE
+*
+           STORAGE    S1,1/S2,2		create storage
+*
+RES TABLE             M1,4,1,11		create results table
+*
+           GENERATE   &LIMIT
+           TERMINATE  1
+           START      1
+           END

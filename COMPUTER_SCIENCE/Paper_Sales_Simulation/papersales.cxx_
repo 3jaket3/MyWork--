@@ -1,0 +1,90 @@
+
+#include <iostream>
+#include <vector>
+#include <cmath>
+
+#include <TCanvas.h>
+#include <TLatex.h>
+#include <TRandom3.h>
+#include <TH2F.h>
+#include <TF1.h>
+#include <TError.h>
+
+
+using namespace std;
+
+
+int main() {
+
+
+  int profit = 0;
+  double demand = 0;
+  double cost = 0.33;
+  double price = 0.5;
+  double recycle = 0.05;
+
+  TH1F *h1 = new TH1F("h1", "paper profit",100 , 10,30);
+  
+  for( int i = 0; i < 50 ; i++)
+    {
+      int x = gRandom->Uniform(100);
+
+
+      if( x>-1 && x <36)
+	{
+	  int y = gRandom->Uniform(100);
+	  if ( y < 50 )
+	    {
+	      demand = 100;
+	    }
+	  else
+	    {
+	      demand = 80;
+	    }
+	  
+	}
+      else if( x > 35 && x < 46 )
+	{
+	  int z = gRandom->Uniform(100);
+
+	  if( z > 50 )
+	    {
+	      demand = 70;
+	    }
+	  else
+	    {
+	      demand = 55;
+	    }
+	}
+      else
+	{
+	  int q = gRandom->Uniform(100);
+	  if (q < 50)
+	    {
+	      demand = 45;
+	    }
+	  else
+	    {
+	      demand = 40;
+	    }
+	}
+
+
+      if( demand < 70)
+	{
+	  profit =  demand * price - 70* cost + (70-demand)*recycle;
+	}
+      else
+	{
+	  profit = demand * price - 70*cost - (demand -70)*0.17;
+	}
+      h1->Fill(profit);
+      
+      
+    }
+  TCanvas *c1 = new TCanvas("c1","myhist",1200,400);
+    
+  h1->Draw();
+  c1->Draw();
+  c1->Print();
+}

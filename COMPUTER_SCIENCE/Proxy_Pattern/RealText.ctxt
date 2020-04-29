@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RealText
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Text\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RealText()
+comment2.params=newContent
+comment2.target=void\ setContent(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getContent()
+comment4.params=
+comment4.target=java.lang.String\ Read()
+comment5.params=newContent
+comment5.target=void\ Write(java.lang.String)
+numComments=6

@@ -1,0 +1,6 @@
+C:\Users\JakeT\OneDrive\Documents\COIS_3020\Ropes\Ropes\bin\x64\Debug\Ropes.exe.config
+C:\Users\JakeT\OneDrive\Documents\COIS_3020\Ropes\Ropes\bin\x64\Debug\Ropes.exe
+C:\Users\JakeT\OneDrive\Documents\COIS_3020\Ropes\Ropes\bin\x64\Debug\Ropes.pdb
+C:\Users\JakeT\OneDrive\Documents\COIS_3020\Ropes\Ropes\obj\x64\Debug\Ropes.csproj.CoreCompileInputs.cache
+C:\Users\JakeT\OneDrive\Documents\COIS_3020\Ropes\Ropes\obj\x64\Debug\Ropes.exe
+C:\Users\JakeT\OneDrive\Documents\COIS_3020\Ropes\Ropes\obj\x64\Debug\Ropes.pdb

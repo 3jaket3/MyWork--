@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480620293 source:/home/onthego/Documents/C++/Lesson5/Listing5.8/main.cpp
+	<iostream>
+	<bitset>
+

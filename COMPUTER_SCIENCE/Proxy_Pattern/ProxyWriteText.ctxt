@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ProxyWriteText
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ProxyWriteText\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ProxyWriteText()
+comment2.params=newContent
+comment2.target=void\ Write(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ Read()
+numComments=4
