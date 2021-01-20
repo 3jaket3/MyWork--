@@ -1,0 +1,26 @@
+% Red-Black-Tree Node
+% Jake Tully 1/18/2021
+
+
+%//////////////////////////////////////////////////////////////////////////
+% Node Class
+classdef Node < handle 
+    properties
+       Left
+       Right
+       Parent
+       C
+       Item
+
+    end
+    
+    methods
+
+        function obj = Node(item)
+            obj.C = Color.Black;
+            obj.Item = item;
+
+            
+        end
+    end
+end
